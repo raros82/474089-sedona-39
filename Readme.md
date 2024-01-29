@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Роман Рацеев](https://up.htmlacademy.ru/htmlcss/39/user/474089).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
 
 ---
 
