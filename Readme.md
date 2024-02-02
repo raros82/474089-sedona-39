@@ -2,7 +2,7 @@
 
 * Студент: [Роман Рацеев](https://up.htmlacademy.ru/htmlcss/39/user/474089).
 * Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
-
+* Личный проект: [Седона](https://raros82.github.io/474089-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
